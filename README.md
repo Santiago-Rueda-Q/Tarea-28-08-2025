@@ -11,9 +11,9 @@ Este proyecto demuestra la aplicación de principios **SOLID** en Python a trav�
 ---
 
 ## 🗂️ Contenido del repositorio
-─ README.md # Este documento
-─ Clase_codigo.py # Script ejecutable (CLI) con Intake & Validation; integra notificaciones
-─ Clase_codigo.ipynb # Notebook Jupyter con ejemplos explicados y pruebas manuales
+- README.md # Este documento
+- Clase_codigo.py # Script ejecutable (CLI) con Intake & Validation; integra notificaciones
+- Clase_codigo.ipynb # Notebook Jupyter con ejemplos explicados y pruebas manuales
 
 ## 🧱 Arquitectura (resumen)
 
